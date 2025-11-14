@@ -1,0 +1,11 @@
+
+body{
+    background-color: black;
+    color:goldenrod;
+    }
+p{
+    size: 16px;
+}
+table, td, th, tr{
+    border: 2px solid whitesmoke;
+}
